@@ -1,1 +1,0 @@
-# AI_WeatherWise_API
