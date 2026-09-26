@@ -1,6 +1,7 @@
 # AI WeatherWise API
 
 AI WeatherWise API is a RESTful backend application built with **Node.js, Express.js, MongoDB, and Mongoose**. It features secure JWT authentication with password hashing (bcrypt), custom favorite locations tracking, search history management, and Generative AI integrations (**Groq Cloud API**) to deliver intelligent weather summaries and personalized recommendations based on real-time metrics.
+
 Demo Video link: https://drive.google.com/file/d/1NPOsm8IZ2c9L6lxNIOKIprpSSKR2e8fH/view?usp=drivesdk
 
 ## Features
